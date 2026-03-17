@@ -4,6 +4,5 @@ Chương trình giao tiếp với Device Driver GPIO để Blink Led:
 Tự khởi chạy Blink Led:
 ![6 2](https://github.com/user-attachments/assets/11bd8a1a-01da-4e41-9c6c-14f14f795f11)
 Video demo:
-
-https://github.com/user-attachments/assets/e656d35b-d0fc-4326-80bb-ee33b08cc5ef
-
+<video src="https://github.com/user-attachments/assets/e656d35b-d0fc-4326-80bb-ee33b08cc5ef" controls="controls" style="max-width: 100%;">
+</video>
